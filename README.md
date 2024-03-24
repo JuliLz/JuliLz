@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JuliLz
-- 👀 I’m interested in salir de latam
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to reach me lorenzattijulian@gmail.com
+- 👀 I’m interested in system engineering
+- 🌱 I’m currently learning python, c++, smalltalk, git
+- 📫 How to reach me: lorenzattijulian@gmail.com
