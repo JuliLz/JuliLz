@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JuliLz
 - 👀 I’m interested in system engineering
-- 🌱 I’m currently learning python, c++, smalltalk, git
+- 🌱 I’m currently learning python, javascript, SQL, git.
 - 📫 How to reach me: lorenzattijulian@gmail.com
