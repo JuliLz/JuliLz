@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JuliLz
-- 👀 I’m interested in system engineering
+- 👀 Systems engineering at UTN FRC
 - 🌱 I’m currently learning python, javascript, SQL, git.
 - 📫 How to reach me: lorenzattijulian@gmail.com
