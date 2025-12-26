@@ -31,7 +31,7 @@ Soy un apasionado de la tecnología y la resolución de problemas. Actualmente e
 ¡Me encantaría conectar y colaborar en proyectos!
 
 - 📧 **Email:** [lorenzattijulian@gmail.com](mailto:lorenzattijulian@gmail.com)
-- 💼 **LinkedIn:** [Tu-Usuario-Aquí](https://linkedin.com/in/tu-usuario) (¡No olvides agregarlo!)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/julian-lorenzatti-53a729300/)
 
 ---
 
