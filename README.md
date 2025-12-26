@@ -8,9 +8,9 @@
 ### 🚀 Sobre mí
 Soy un apasionado de la tecnología y la resolución de problemas. Actualmente estoy construyendo las bases de mi carrera como desarrollador, enfocándome en crear soluciones eficientes y escalables.
 
-- 🌱 **Aprendiendo actualmente:** Profundizando en el ecosistema de **JavaScript** y **Python**.
+- 🌱 **Aprendiendo actualmente:** Profundizando en el ecosistema del "Desarrollo web".
 - 🛠️ **Stack en formación:**
-  - **Lenguajes:** Python, JavaScript.
+  - **Lenguajes:** JavaScript, HTML, CSS.
   - **Base de Datos:** SQL.
   - **Herramientas:** Git, GitHub.
 - 🎯 **Objetivo:** Convertirme en un desarrollador Full Stack orientado a la ingeniería de software.
