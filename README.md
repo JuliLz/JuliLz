@@ -34,7 +34,3 @@ Soy un apasionado de la tecnología y la resolución de problemas. Actualmente e
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/julian-lorenzatti-53a729300/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliLz&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
