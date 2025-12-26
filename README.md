@@ -1,4 +1,4 @@
-# ¡Hola! Soy Julián Lorenzatti <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSyjE/giphy.gif" width="25px">
+# ¡Hola! Soy Julián Lorenzatti
 
 ### 🎓 Estudiante de Ingeniería en Sistemas de Información
 **UTN - Facultad Regional Córdoba** 🇦🇷
